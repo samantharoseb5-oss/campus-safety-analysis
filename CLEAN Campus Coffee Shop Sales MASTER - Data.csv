@@ -1,0 +1,11 @@
+transaction_id,date,drink_type,price,payment_method
+7001,1/5/2024,Latte,$4.50,CREDIT
+7002,1/6/2024,Latte,$4.50,CREDIT
+7003,1/7/2024,Espresso,$3.00,CASH
+7004,1/8/2024,Cappuccino,$5.00,DEBIT
+7005,1/9/2024,Espresso,$3.00,CASH
+7006,1/10/2024,Mocha,$5.50,CREDIT
+7007,1/11/2024,Mocha,$5.50,DEBIT
+7008,1/12/2024,Cappuccino,$5.00,DEBIT
+7009,1/13/2024,Latte,$4.50,CASH
+7010,1/14/2024,Espresso,$3.00,CREDIT
